@@ -2,11 +2,11 @@
 Author: Bruno Vasconcellos
 Description: This is the source file.
 1. The integrate function: will calculate the integral of any user given function,
-the code will make use of Riemann's sum; it will use a step size of 0.01 for each
+the code will make use of Riemann's sum; it will use a step size of 0.01 (feel free to change this value accordingly to your needs) for each
 rectangle's base and the user function to determine the high, then it will add all the
 rectangle areas in a value that will be returned once the loop is over.
 
-2. The derivate function: will calculate the derivative of any user input function.
+2. The derivative function: will calculate the derivative of any user input function.
 The code makes use of the derivative definition formula: f'(x) = ((x+h) - f(x-h)) / (2*h)
 */
 
