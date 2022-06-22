@@ -1,5 +1,5 @@
 # Calculus
-Project develop to calculate integrals and derivatives. 
+Project developed to calculate integrals and derivatives. 
 
 ## Stack:
 * [C Programming language](https://devdocs.io/c/)
